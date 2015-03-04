@@ -13,7 +13,7 @@ with help of <a href="http://gisfile.com/designer.htm">the map designer</a>
 <a href="http://gisfile.com/js/gisfile.js">API</a>
 </h2>
 
-<p>Latest version of the GISfile JavaScript API in the <code>src</code> and <code>css</code> directory</p>
+<p>Latest version of the GISfile JavaScript API in the <code>src</code> directory</p>
 
 <h2>
 <a id="user-content-examples" class="anchor" href="#examples" aria-hidden="true">
