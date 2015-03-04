@@ -87,13 +87,13 @@ make</pre></div>
 
 <p>This project uses <a href="https://github.com/substack/node-browserify">browserify</a> to combine
 dependencies and installs a local copy when you run <code>npm install</code>.
-<code>make</code> will build the project in <code>dist/</code>.</p>
+<code>make</code> will build the project in <code>dist/</code>.</p-->
 
 <h2>
 <a id="user-content-references" class="anchor" href="#references" aria-hidden="true">
 <span class="octicon octicon-link"></span></a>
 <a href="http://gisfile.com/api/1.0/doc/quick-start/">References</a>
-</h2-->
+</h2>
 
 <p>
 <a href="http://gisfile.com/api/1.0/doc/">Description</a><br>
