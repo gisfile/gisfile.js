@@ -1,0 +1,49 @@
+.leaflet-control-gisfile-fitBounds-interior
+{
+    background-image: url(images/icons.png);
+    background-position: -241px -830px;
+    background-repeat: no-repeat;
+    margin-bottom: 2px;    
+    width: 28px;
+    height: 28px;
+    display: block;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    box-shadow: 0 1px 7px rgba(0, 0, 0, 0.65);
+    cursor: auto;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+
+.leaflet-control-gisfile-fitBounds-interior:hover
+{
+    background-color: #F4F4F4;
+    cursor: pointer;
+}
+
+.leaflet-control-gisfile {
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 0px;
+    left: 56px;
+    width: 500px;
+}
+
+.gisfile-brend {
+    height: 20px; 
+    width: 20px; 
+    top: 0px;
+    left: 0px;
+    background-image: url('images/gisfile.png'); 
+    background-repeat: no-repeat; 
+    background-size: 40px 40px;
+}
+
+.gisfile-content {
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,1);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 3px;
+}
