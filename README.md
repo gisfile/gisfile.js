@@ -14,6 +14,7 @@ Examples
 <ul>
 <li><a href="examples/markers.html">Basic map polygons</a></li>
 <li><a href="examples/map.html">Basic map markers</a></li>
+<li><a href="examples/point.html">Basic map point</a></li>
 </ul>
 
 <h2>
