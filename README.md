@@ -13,8 +13,6 @@ with help of <a href="http://gisfile.com/designer.htm">the map designer</a>
 <a href="http://gisfile.com/js/gisfile.js">API</a>
 </h2>
 
-<script src="http://gisfile.com/api/1.0/?map=usa&width=100%&height=300" type="text/javascript" charset="utf-8"></script>
-
 <p>Latest version of the GISfile JavaScript API in the <code>src</code> directory</p>
 
 <h2>
