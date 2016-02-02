@@ -15,11 +15,12 @@ with help of <a href="http://gisfile.com/designer.htm">the map designer</a>
 
 <h2>
 <a id="user-content-exampls" class="anchor" href="#exampls" aria-hidden="true">
+Examples
+</h2>
 <ul>
 <li><a href="examples/markers.html">Basic map polygons</a></li>
 <li><a href="examples/map.html">Basic map markers</a></li>
 </ul>
-</h2>
 
 <p>Latest version of the GISfile JavaScript API in the <code>src</code> directory</p>
 
