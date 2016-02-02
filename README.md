@@ -13,6 +13,14 @@ with help of <a href="http://gisfile.com/designer.htm">the map designer</a>
 <a href="http://gisfile.com/js/gisfile.js">API</a>
 </h2>
 
+<h2>
+<a id="user-content-exampls" class="anchor" href="#exampls" aria-hidden="true">
+<ul>
+<li><a href="examples/markers.html">Basic map polygons</a></li>
+<li><a href="examples/map.html">Basic map markers</a></li>
+</ul>
+</h2>
+
 <p>Latest version of the GISfile JavaScript API in the <code>src</code> directory</p>
 
 <h2>
