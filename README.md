@@ -100,5 +100,6 @@ dependencies and installs a local copy when you run <code>npm install</code>.
 <a href="http://gisfile.com/api/1.0/doc/quick-start/">First Start</a><br>
 <a href="http://gisfile.com/api/1.0/doc/general/">General Information</a><br>
 <a href="http://gisfile.com/api/1.0/doc/jsapi/">Connecting API</a><br>
+<a href="http://gisfile.com/api/1.0/doc/jsonp/">Dynamic JSONP Layer</a><br>
 <a href="http://gisfile.com/designer.htm">Map Designer</a>
 </p>
