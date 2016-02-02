@@ -8,12 +8,6 @@ with help of <a href="http://gisfile.com/designer.htm">the map designer</a>
 </p>
 
 <h2>
-<a id="user-content-api" class="anchor" href="#api" aria-hidden="true">
-<span class="octicon octicon-link"></span></a>
-<a href="http://gisfile.com/js/gisfile.js">API</a>
-</h2>
-
-<h2>
 <a id="user-content-exampls" class="anchor" href="#exampls" aria-hidden="true">
 Examples
 </h2>
@@ -21,6 +15,12 @@ Examples
 <li><a href="examples/markers.html">Basic map polygons</a></li>
 <li><a href="examples/map.html">Basic map markers</a></li>
 </ul>
+
+<h2>
+<a id="user-content-api" class="anchor" href="#api" aria-hidden="true">
+<span class="octicon octicon-link"></span></a>
+<a href="http://gisfile.com/js/gisfile.js">API</a>
+</h2>
 
 <p>Latest version of the GISfile JavaScript API in the <code>src</code> directory</p>
 
